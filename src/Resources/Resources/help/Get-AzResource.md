@@ -89,7 +89,7 @@ storage otherResourceGroup Microsoft.Storage/storageAccounts eastus
 testVM2 otherResourceGroup Microsoft.Compute/virtualMachines eastus
 ```
 
-This command gets all of the resources whose resource group they belong in beings with "other".
+This command gets all the resources in a resource group that has a name starting with "other".
 
 ### Example 4: Get all resources with a given name
 
